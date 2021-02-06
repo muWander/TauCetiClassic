@@ -501,7 +501,7 @@ var/list/all_supply_groups = list("Operations","Security","Hospitality","Enginee
 	contains = list(/obj/item/weapon/vending_refill/engivend,
 					/obj/item/weapon/vending_refill/engivend,
 					/obj/item/weapon/vending_refill/engivend)
-	cost = 2500
+	cost = 16000
 	crate_type = /obj/structure/closet/crate/freezer
 	crate_name = "Engi-Vend supply crate"
 	group = "Hospitality"
